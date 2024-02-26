@@ -149,12 +149,13 @@ nav a:hover {
 /Resolución notebooks/
 
 @media screen and (min-width: 1024px) {
+
   nav {
     display: flex;
     flex-direction: row; /*cambiamos la disposición de los elementos */
-    width: 100%;
-    justify-content: space-between;
-    background-color: var(--azuloscuro);
+    width : 100%;
+    justify-content : space-between;
+    background-color : var(--azuloscuro);
   }
   .logo {
     padding: 1rem;
